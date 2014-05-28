@@ -1,0 +1,11 @@
+{
+  "name": "firefox-mirror",
+  "version": "0.0.0",
+  "author": "Mad Science Collective",
+  "scripts": {
+    "build": "browserify *.js > bundle.js"
+  },
+  "devDependencies": {
+    "browserify": "^4.1.6"
+  }
+}
