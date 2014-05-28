@@ -7,7 +7,8 @@
   "developer": {
   },
   "permissions": {
-    "video-capture":{}
+    "video-capture":{},
+    "geolocation":{}
   },
   "locales": {
     "en-US": {
