@@ -1,0 +1,25 @@
+{
+  "name": "Firefox Mirror",
+  "description": "Smoke and mirrors for Firefox",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "role": "homescreen",
+  "developer": {
+  },
+  "permissions": {
+    "video-capture":{}
+  },
+  "locales": {
+    "en-US": {
+      "name": "Firefox Mirror",
+      "description": "Smoke and mirrors for Firefox"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "30": "/style/icons/icon.png"
+  },
+  "orientation": "portrait-primary",
+  "activities": {},
+  "messages": []
+}
